@@ -22,9 +22,9 @@ Gosto de criar APIs, mexer com banco de dados e entender como as coisas funciona
 ---
 
 ### 📊 Stats
+
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HerikCastro&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerikCastro&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=HerikCastro&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
