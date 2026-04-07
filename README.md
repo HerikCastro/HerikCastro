@@ -1,9 +1,17 @@
-<h1 align="center">Fala, eu sou o Herik 👋</h1>
+<h1 align="center">Herik</h1>
 
 <p align="center">
-💻 Backend Developer <br>
-🚀 Node.js | MySQL | Python <br>
-📍 Brasil
+  Backend Developer<br>
+  Node.js • MySQL • REST APIs
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/herikcruz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/mr.h.castro/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
