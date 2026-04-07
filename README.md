@@ -38,8 +38,7 @@ Gosto de criar APIs, mexer com banco de dados e entender como as coisas funciona
 ---
 
 ### 📫 Contato
-📧 herik.castrocruz22@gmail.com  
-📱 +55 53 98411-1951  
+📧 herik.castrocruz22@gmail.com   
 📷 @mr.h.castro
 
 ---
