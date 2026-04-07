@@ -23,7 +23,7 @@ Gosto de criar APIs, mexer com banco de dados e entender como as coisas funciona
 ---
 
 ### 🚀 Tecnologias que uso
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,mysql,python,js,html,css" />
 </p>
 
